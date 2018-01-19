@@ -1,0 +1,6 @@
+﻿  Main.c
+c:\users\kasia\source\repos\windowsformsapp1\tetris\main.c(293): warning C4087: "kwadrat": zadeklarowano z listą parametrów "void"
+c:\users\kasia\source\repos\windowsformsapp1\tetris\main.c(385): warning C4553: "==": operator nie ma żadnego wpływu; czy miało być "="?
+c:\users\kasia\source\repos\windowsformsapp1\tetris\main.c(417): warning C4550: wyrażenie daje w wyniku funkcję, której brakuje listy argumentów
+c:\users\kasia\source\repos\windowsformsapp1\tetris\main.c(330): warning C4101: "keyboard": lokalna zmienna, do której nie istnieje odwołanie
+  Tetris.vcxproj -> C:\Users\kasia\source\repos\WindowsFormsApp1\Tetris\Debug\Tetris.exe
